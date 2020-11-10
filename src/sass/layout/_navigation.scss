@@ -16,6 +16,15 @@
     text-align: center;
     cursor: pointer;
     user-select: none;
+
+    @include respond(tab-port){
+      top: 4rem;
+      right: 4rem;
+    }
+    @include respond(phone){
+      top: 3rem;
+      right: 3rem;
+    }
   }
 
   &__background {
@@ -28,6 +37,16 @@
     z-index: 300;
     background-image: radial-gradient($color-primary-light, $color-primary-dark);
     transition: all 0.4s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+
+    @include respond(tab-port){
+      top: 4.5rem;
+      right: 4.5rem;
+    }
+
+    @include respond(phone){
+      top: 3.5rem;
+      right: 3.5rem;
+    }
   }
 
   &__nav {

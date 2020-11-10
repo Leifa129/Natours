@@ -47,7 +47,7 @@ function App() {
                         <span className="heading-primary--main">Outdoors</span>
                         <span className="heading-primary--sub">is where life happens</span>
                     </h1>
-                    <a href="#" className="btn btn--white btn--animated">Discover our tours</a>
+                    <a href="#section-tours" className="btn btn--white btn--animated">Discover our tours</a>
                 </div>
 
             </div>
@@ -55,9 +55,9 @@ function App() {
             <main>
                 <section className="section-about">
                     <div className="u-center-text u-margin-bottom-big">
-                    <h2 className="heading-secondary">
-                        Exciting tours for adventurous people!
-                    </h2>
+                        <h2 className="heading-secondary">
+                            Exciting tours for adventurous people!
+                        </h2>
                     </div>
 
                     <div className="row">
@@ -125,7 +125,7 @@ function App() {
                     </div>
                 </section>
 
-                <section className="section-tours">
+                <section className="section-tours" id="section-tours">
                     <div className="u-center-text u-margin-bottom-big">
                         <h2 className="heading-secondary">
                             Top rated tours
@@ -158,7 +158,7 @@ function App() {
                                             <p className="card__price-only">Only</p>
                                             <p className="card__price-value">299$</p>
 
-                                            <a href="#" className="btn btn--white">Book now</a>
+                                            <a href="#popup" className="btn btn--white">Book now</a>
                                         </div>
                                     </div>
                                 </div>
@@ -189,7 +189,7 @@ function App() {
                                             <p className="card__price-only">Only</p>
                                             <p className="card__price-value">499$</p>
 
-                                            <a href="#" className="btn btn--white">Book now</a>
+                                            <a href="#popup" className="btn btn--white">Book now</a>
                                         </div>
                                     </div>
                                 </div>
@@ -220,7 +220,7 @@ function App() {
                                             <p className="card__price-only">Only</p>
                                             <p className="card__price-value">899$</p>
 
-                                            <a href="#" className="btn btn--white">Book now</a>
+                                            <a href="#popup" className="btn btn--white">Book now</a>
                                         </div>
                                     </div>
                                 </div>
@@ -355,12 +355,42 @@ function App() {
                         </div>
                     </div>
                     <div className="col-1-of-2">
-                            <p className="footer__copyright">
-                                Built as part of the coursework from lectures by Jonas Schmedtmann. For his online courses on <a href="#" className="footer__link"> advanced css techniques.  </a>
-                            </p>
+                        <p className="footer__copyright">
+                            Built as part of the coursework from lectures by Jonas Schmedtmann. For his online courses on <a href="#" className="footer__link"> advanced css techniques.  </a>
+                        </p>
                     </div>
                 </div>
             </footer>
+
+            <div className="popup" id="popup">
+                <div className="popup__content">
+                    <div className="popup__left">
+                        <img src={nat8} alt="" className="popup__img"/>
+                        <img src={nat9} alt="" className="popup__img"/>
+                    </div>
+                    <div className="popup__right">
+                        <a href="#section-tours" className="popup__close">&times;</a>
+                        <div className="heading-secondary u-margin-bottom-medium" style={{display: 'block'}}>
+                            START BOOKING NOW
+                        </div>
+                        <h3 className="heading-tertiary u-margin-bottom-small">IMPORTANT - PLEASE READ THE TERMS AND CONDITIONS FIRST</h3>
+
+                        <p className="popup__text">
+                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam, assumenda aut esse inventore ipsum neque ratione sapiente tempora voluptates voluptatibus? Aspernatur dicta dignissimos doloremque exercitationem odit, sapiente sequi. Est, rerum?
+                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias dolore exercitationem, libero neque nesciunt nostrum quod reprehenderit vel velit veniam? Molestias necessitatibus, velit? Dolores eum maxime numquam perspiciatis, quidem ut!
+
+                        </p>
+
+                        <a href="#" className="btn btn--green">
+                            BOOK NOW
+                        </a>
+
+
+                    </div>
+
+                </div>
+
+            </div>
 
             {/*
 

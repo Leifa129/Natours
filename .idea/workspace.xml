@@ -2,68 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e78b10e-50b1-41c5-9c40-9004453c5163" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/fonts/Linearicons-Free.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/fonts/Linearicons-Free.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/fonts/Linearicons-Free.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/fonts/Linearicons-Free.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/fonts/Linearicons-Free.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/icon-font.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/hero-small.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/hero.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/logo-green-1x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/logo-green-2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/logo-green-small-1x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/logo-green-small-2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/logo-white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/nat-1-large.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/nat-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/nat-10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/nat-2-large.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/nat-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/nat-3-large.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/nat-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/nat-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/nat-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/nat-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/nat-7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/nat-8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/nat-9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/video.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/video.webm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sass/abstract/_functions.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sass/abstract/_mixins.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sass/abstract/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sass/base/_animations.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sass/base/_base.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sass/base/_typography.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sass/base/_utilities.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sass/components/_bg-video.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sass/components/_button.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sass/components/_card.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sass/components/_composition.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sass/components/_feature-box.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sass/components/_form.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sass/components/_story.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sass/layout/_footer.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sass/layout/_grid.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sass/layout/_header.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sass/layout/_navigation.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sass/main.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sass/pages/_home.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sass/components/_popup.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/logo192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/logo512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sass/abstract/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/abstract/_mixins.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sass/abstract/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/abstract/_variables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sass/base/_base.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/base/_base.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sass/base/_typography.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/base/_typography.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sass/base/_utilities.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/base/_utilities.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sass/components/_bg-video.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/components/_bg-video.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sass/components/_card.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/components/_card.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sass/components/_composition.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/components/_composition.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sass/components/_feature-box.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/components/_feature-box.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sass/components/_form.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/components/_form.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sass/components/_story.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/components/_story.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sass/layout/_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/layout/_footer.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sass/layout/_grid.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/layout/_grid.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sass/layout/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/layout/_header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sass/layout/_navigation.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/layout/_navigation.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sass/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sass/pages/_home.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/pages/_home.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,8 +86,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603531110722</updated>
-      <workItem from="1603531112166" duration="75116000" />
+      <workItem from="1603531112166" duration="76925000" />
+      <workItem from="1604485697872" duration="13355000" />
+      <workItem from="1604915157221" duration="8988000" />
     </task>
+    <task id="LOCAL−00001" summary="First commit">
+      <created>1604418450971</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1604418450972</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,6 +104,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="First commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="71" key="#File_Watchers" timestamp="1603899603850">
@@ -146,38 +116,46 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="517" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1604073288754" />
+    <state x="393" y="7" key="CommitChangelistDialog2" timestamp="1604418449707">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="393" y="7" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1604418449707" />
     <state x="405" y="191" key="EditFileWatcherDialog" timestamp="1603899571941">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="405" y="191" key="EditFileWatcherDialog/0.0.1536.824@0.0.1536.824" timestamp="1603899571941" />
-    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1603532972811">
+    <state width="757" height="210" key="GridCell.Tab.0.bottom" timestamp="1604690674036">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603532972811" />
-    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1603532972810">
+    <state width="757" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604690674036" />
+    <state width="757" height="210" key="GridCell.Tab.0.center" timestamp="1604690674036">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1603532972810" />
-    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1603532972809">
+    <state width="757" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1604690674036" />
+    <state width="757" height="210" key="GridCell.Tab.0.left" timestamp="1604690674035">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1603532972809" />
-    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1603532972810">
+    <state width="757" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1604690674035" />
+    <state width="757" height="210" key="GridCell.Tab.0.right" timestamp="1604690674036">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1603532972810" />
+    <state width="757" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1604690674036" />
     <state x="277" y="55" key="SettingsEditor" timestamp="1603899567457">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1603899567457" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1604418536541">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1604418536541" />
     <state x="463" y="19" width="609" height="804" key="find.popup" timestamp="1604072351354">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="463" y="19" width="609" height="804" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1604072351354" />
-    <state x="425" y="187" key="run.anything.popup" timestamp="1604075189828">
+    <state x="425" y="187" key="run.anything.popup" timestamp="1604487860668">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1604075189828" />
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1604487860668" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1604408645835">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
